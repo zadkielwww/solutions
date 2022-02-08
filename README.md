@@ -4,3 +4,6 @@
   
 ### Luogu  
 - P1996 [Link](https://github.com/zadkielwww/solutions/blob/main/luogu-P1996.md)
+  
+### Notes
+- 最长回文子串问题（Longest-Palindromic-Substring） [Link](https://github.com/zadkielwww/solutions/blob/main/Longest-Palindromic-Substring.md)
