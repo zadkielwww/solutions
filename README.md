@@ -7,3 +7,6 @@
   
 ### Notes
 - 最长回文子串问题（Longest-Palindromic-Substring） [Link](https://github.com/zadkielwww/solutions/blob/main/Longest-Palindromic-Substring.md)
+  
+### NBS
+- Practice_List(Week_2) [Link](https://github.com/zadkielwww/solutions/blob/main/NBS_week2.md)
